@@ -1,0 +1,10 @@
+tensorflow
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+streamlit
+Pillow
+datasets
